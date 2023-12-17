@@ -1,0 +1,32 @@
+[
+    {
+        "id": 2,
+        "name": "Kahtik Chetan Kishan",
+        "address": "Pasthal",
+        "age": 21
+    },
+    {
+        "id": 3,
+        "name": "Kishan Khatik",
+        "address": "Pasthal",
+        "age": 21
+    },
+    {
+        "id": 4,
+        "name": "Kishan khatik",
+        "address": "Pasthal",
+        "age": 21
+    },
+    {
+        "id": 5,
+        "name": "Kishan Khatik",
+        "address": "Pasthal",
+        "age": 21
+    },
+    {
+        "id": 6,
+        "name": "Pavan",
+        "address": "Pasthal",
+        "age": 21
+    }
+]
